@@ -5,3 +5,6 @@
  * Date: 10/04/2018
  * Time: 11:33
  */
+
+phpinfo();
+echo '<h4> Hello world ! </h4>';
